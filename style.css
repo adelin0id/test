@@ -1,0 +1,28 @@
+.andrey_huy {
+    width: 395px;
+    height: 500px;
+    border: 1px solid #ff00ff;
+    margin-left: 480px;
+}
+.andrey_huy__header {
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 60px;
+    height: 40px;
+}
+.start {
+    text-align: center;
+}
+.data input {
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 180px;
+    height: 30px;
+}
+.alt {
+    text-align: center;
+}
+.button {
+    justify-content: space-between;
+}
